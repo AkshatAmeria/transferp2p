@@ -1,0 +1,10 @@
+{
+  "name": "@repo/notification",
+  "version": "1.0.0",
+  "main": "src/sms.ts",
+  "types": "src/sms.ts",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "twilio": "^4.23.0"
+  }
+}
