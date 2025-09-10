@@ -11,6 +11,9 @@ git clone https://github.com/AkshatAmeria/transferp2p.git
 docker run  -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 postgres
 ```
 
+<img width="706" height="437" alt="image" src="https://github.com/user-attachments/assets/f2cc13b5-9759-4861-b6d1-5ee1e75e4c02" />
+
+
 - Copy over all .env.example files to .env
 - Update .env files everywhere with the right db url
 - Go to `packages/db`
